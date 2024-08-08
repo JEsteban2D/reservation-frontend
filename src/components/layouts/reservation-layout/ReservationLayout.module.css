@@ -1,0 +1,13 @@
+.reservations {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.gridLeft {
+    height: 100vh;
+}
+
+.gridRight {
+    height: 100vh;
+}

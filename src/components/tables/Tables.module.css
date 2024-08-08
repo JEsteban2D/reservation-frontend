@@ -1,0 +1,11 @@
+.tables {
+    width: 100%;
+    height: 50%;
+    /* background-color: blueviolet; */
+    border: 2px white solid;
+}
+
+.tablesPosition {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
