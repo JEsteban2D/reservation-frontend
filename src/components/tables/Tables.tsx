@@ -7,6 +7,7 @@ const Tables = () => {
     <div className={styles.tables}>
     <h2>Tables</h2>
     <div className={styles.tablesPosition}>
+      
       <TablesDraw/>
       <TablesDraw/>
     </div>
